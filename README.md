@@ -1,4 +1,4 @@
 # WXOHandson
 
 watsonx Orchestrateのハンズオンのためのリポジトリです。
-![alt text](image.png)
+![alt text](README_images/image.png)
