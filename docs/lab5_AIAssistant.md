@@ -1,4 +1,4 @@
-# Lab5 AI Assistant Builder
+# (オプション)Lab4 AI Assistant Builder
 
 このLabでは、AI Assistant Builderを用いて、AI Assistantを構築します。生成AIを用いて回答するアクションや、これまでのハンズオンで作成したスキルを呼び出すアクションを定義し、動作を確認します
 
