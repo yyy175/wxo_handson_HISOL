@@ -30,9 +30,9 @@ nav:
 - Lab1 Hello world: lab1.md
 - Lab2 Generative AI: lab2_GenAI.md
 - Lab3 Skill flow: lab3.md
-- Lab4 Decision: lab4.md
-- Lab5 AI Assistant Builder: lab5_AIAssistant.md
-- (オプション)OpenAPI Builder: OpenAPI.md
+#- Lab4 Decision: lab4.md
+- (オプション)Lab4 AI Assistant Builder: lab5_AIAssistant.md
+#- (オプション)OpenAPI Builder: OpenAPI.md
 
 
 extra_css:
