@@ -166,8 +166,8 @@ Skill studioで、まず Project を作成し、そのコンポーネントの1�
    - **home improvement**
  ![alt text](lab4_images/image-62.png)
  
- 4. **creditScore** の表示ラベルを **Provide the Experian credit score** に変更します。
- そのために、**Provide the Label for input parameter creditScore** と書かれいてる箇所に **Provide the Experian credit score** を入力してください。  
+ 4. **creditScore** の表示ラベルを **クレジットスコアを入力してください** に変更します。
+ そのために、**入力パラメーター「creditScore」にラベルを指定します** と書かれている箇所に **クレジットスコアを入力してください** を入力してください。  
  ![alt text](lab4_images/image-63.png)
  
  5. **Publish**をクリックして変更を保存します。  
@@ -229,7 +229,6 @@ Skill studioで、まず Project を作成し、そのコンポーネントの1�
 スキルの実行を通じて、エンハンス時に変更した内容が正しく行われていることを確認します。
 
  1. **Skill catalog** に移動し、検索欄に **Lending** と入力して検索します。表示された ***YourInitials*_Lending_Services** をクリックします。
- ![alt text](lab4_images/image-48.png)
  
  2. ***YourInitials* Personal Loan** の **Add** をクリックしてスキルを追加します。
  ![alt text](lab4_images/image-81.png)
